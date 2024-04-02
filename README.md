@@ -5,3 +5,5 @@ this is machine learning class
 
 <br>
 this is second lecture
+
+this is my third lecture so aware it
