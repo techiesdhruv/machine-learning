@@ -1,5 +1,5 @@
 # machine-learning
-this is machine learning class
+this is machine learning class(dhruv)
  
 <p>this is our first lecture of ml
 
